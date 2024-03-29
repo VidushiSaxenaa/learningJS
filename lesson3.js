@@ -31,6 +31,9 @@ else {
 a = 6;
 b = 8;
 let c = a > b ? (a - b) : (b - a);
+// ?--matlab--agar ye toh
+// :--matlab--nahi toh 
+
 
 /*
 translates to:
